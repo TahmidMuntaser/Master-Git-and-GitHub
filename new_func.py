@@ -4,9 +4,9 @@ def sum():
 def mul():
     pass
 
-def div():
-    pass
+def div(a, b):
+    print(a/b)
 
 sum()
 mul()
-div()
+div(10, 2)
