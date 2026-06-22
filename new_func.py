@@ -4,5 +4,9 @@ def sum():
 def mul():
     pass
 
+def div():
+    pass
+
 sum()
 mul()
+div()
