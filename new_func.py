@@ -4,8 +4,10 @@ def sum():
 def mul():
     pass
 
-def div(c,d):
-    print(c/d)
+
+def div(num1,num2):
+    print(num1/num2)
+
 
 sum()
 mul()
